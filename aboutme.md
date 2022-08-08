@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Philomath
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Edwin Almira, a newbie in this DevOps world who try to learn and adopt this culture.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I start as a backend developer in 2017, working with OOP languages (Java, Ruby, C#), web frameworks and SQL databases. The problem here is that most of the projects I contributed were monolithic with waterfall methodology and a lot of culture problems. I was a kind of firefighter in several projects already done or about to be finished.
+
+Right now (and I hope for a long time) I'm working as DevOps Engineer in a entry role for a company at El Salvador, so I create this blog to share my learning and discovery process and hopefully help you with the content in this blog.
